@@ -1,7 +1,3 @@
-
-# Sebastian Valencia Carvajal 0916066
-# Santiago Valencia Saavedra  0916067
-
 import numpy as np
 from matplotlib import pyplot as plt
 
